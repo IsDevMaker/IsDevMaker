@@ -1,8 +1,8 @@
 ### Ola! Eu sou o Mateus Vasconcellos!
 
-🐍🦏Estudando JavasScript e Python... <br>
-💻Pretendo trabalhar com BackEnd <br>
-📚Engenharia da Computação 1/10
+🐍🦏Estudando Java e Python... <br>
+💻Pretendo trabalhar com BackEnd e Desenvolvimento de Aplicativos Android<br>
+📚Engenharia da Computação 2/10
 
 
   
